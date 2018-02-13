@@ -1,0 +1,73 @@
+.bg-light-change-color {
+  background-color: #292B2C;
+}
+.navbar-light .navbar-brand-color {
+  color: white;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #BFCACA;
+}
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: #515D61;
+}
+.carousel-caption-style-a {
+  font-size: 24px;
+  text-align: left;
+}
+.carousel-caption-style-b {
+  font-size: 24px;
+  text-align: center;
+}
+.carousel-caption-style-c {
+  font-size: 24px;
+  text-align: right;
+}
+.carousel-inner h5 {
+  font-size: 36px;
+}
+.col-md-4-style {
+  color: #5A5A5A;
+  text-align: center;
+  font-weight: 300;
+  margin-bottom: 60px;
+}
+.col-md-4-style h1 {
+  font-size: 34px;
+  font-weight: 400;
+}
+.col-md-4-style img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 70px 10px 10px;
+}
+.col-md-7-style {
+  align-self: center;
+  color: #5A5A5A;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.col-md-7-style h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+.col-md-5-photo {
+  height: 500px;
+  width: 270px;
+}
+.container-wrapper-2 {
+  margin: 80px 0 80px 0;
+  border-bottom: solid 1px lightgrey;
+}
+
+.row-photo {
+  margin: 80px 0;
+  padding: 60px 0 0 0;
+  border-top: solid 1px lightgrey;
+}
+.row-style {
+  margin-bottom: 50px;
+}
